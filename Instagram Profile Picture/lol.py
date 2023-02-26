@@ -46,5 +46,5 @@ while True:
     else:
         print("Profile picture not updated.")
     
-    # Wait for 10 seconds before checking again
+    # Wait for 60 seconds before checking again
     time.sleep(60)
